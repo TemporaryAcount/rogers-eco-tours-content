@@ -1,4 +1,26 @@
 {
-  "contentVersion": 1,
-  "entries": []
+  "contentVersion": 1794848560530,
+  "entries": [
+    {
+      "id": "b39",
+      "title": "Sweet Broom (Licorice Weed)",
+      "subtitle": "Scoparia dulcis",
+      "category": "Bush Medicine",
+      "route": "Basseterre & Coast",
+      "toxic": false,
+      "elevation": "Sea level – 900 ft (roadsides & pastures)",
+      "tip": "Locals tie bundled stems into yard brooms and steep the whole herb as a mild cooling tea.",
+      "summary": "A slender, branching tropical herb with tiny white four-petaled flowers and a faintly sweet, cooling taste.",
+      "notes": "Traditional Bush Use: Steeped as a cooling bush tea for mild fevers, coughs, and digestive discomfort across St. Kitts and Nevis.\n\nField Note: Also called 'Sweet Broom' because its tough, wiry stems were historically tied together for sweeping yards.",
+      "identification": "Small erect herb (1–2 ft) with opposite serrated leaves and tiny 4-petaled white flowers along upper stems.",
+      "bestMix": "Pairs well with Fever Grass (Lemongrass) or Vervine for a light cooling tea.",
+      "tags": [
+        "bush tea",
+        "cooling",
+        "cough",
+        "yard herb"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b39_1794848559547.jpg"
+    }
+  ]
 }
