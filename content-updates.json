@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848562863,
+  "contentVersion": 1794848564575,
   "entries": [
+    {
+      "id": "b41",
+      "title": "Castor Oil Leaf (Palma Christi)",
+      "subtitle": "Ricinus communis",
+      "category": "Bush Medicine",
+      "route": "Wingfield & Romney",
+      "toxic": true,
+      "elevation": "Sea level – 1,200 ft (disturbed clearings)",
+      "tip": "EXTERNAL USE ONLY: Warmed leaves are applied as a poultice for joint aches — seeds are deadly toxic if eaten.",
+      "summary": "Broad, star-shaped palmate leaves prized externally as a warm poultice; seeds contain potent ricin and must never be ingested.",
+      "notes": "Safety Warning: Do NOT eat any part of this plant. The mottled seeds contain ricin, a dangerous toxin.\n\nTraditional External Use: Elders lightly warm the large leaves over a flame or rub them with coconut oil and wrap them around sore knees, sprains, or headaches.",
+      "identification": "Tall soft-wooded shrub with large glossy, deeply lobed star-shaped leaves (7–9 lobes) and spiny red-green seed capsules.",
+      "bestMix": "External leaf poultice only (never brew as a tea).",
+      "tags": [
+        "external only",
+        "toxic seeds",
+        "poultice",
+        "joint relief"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b41_1794848563958.jpg"
+    },
     {
       "id": "b40",
       "title": "Tamarind Leaf & Pod",
