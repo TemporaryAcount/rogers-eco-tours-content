@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848560530,
+  "contentVersion": 1794848562863,
   "entries": [
+    {
+      "id": "b40",
+      "title": "Tamarind Leaf & Pod",
+      "subtitle": "Tamarindus indica",
+      "category": "Bush Medicine",
+      "route": "Basseterre & Coast",
+      "toxic": false,
+      "elevation": "Sea level – 700 ft (dry lowlands & estates)",
+      "tip": "Young tamarind leaves boiled in water make a classic Caribbean soothing wash and fever bath.",
+      "summary": "Feathery compound leaves and tangy brown seed pods from one of St. Kitts' most iconic shade trees.",
+      "notes": "Traditional Bush Use: Young leaves are steeped for mild fevers and sore throats, or boiled into a soothing bath for prickly heat and skin irritation. The tart pulp is rich in natural electrolytes and gentle fiber.\n\nEcology: Thrives in sunny, dry coastal lowlands and historic estate yards.",
+      "identification": "Large spreading tree with airy, pinnate leaves (10–20 pairs of small leaflets) and curved, brittle cinnamon-brown pods.",
+      "bestMix": "Steep young leaves with a touch of ginger or lime peel.",
+      "tags": [
+        "bush bath",
+        "fever",
+        "cooling",
+        "fruit tree"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b40_1794848561938.jpg"
+    },
     {
       "id": "b39",
       "title": "Sweet Broom (Licorice Weed)",
