@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848564575,
+  "contentVersion": 1794848566395,
   "entries": [
+    {
+      "id": "b42",
+      "title": "Bird Vine (Caribbean Mistletoe)",
+      "subtitle": "Phoradendron spp.",
+      "category": "Bush Medicine",
+      "route": "Rainforest Interior",
+      "toxic": false,
+      "elevation": "300 – 2,200 ft (canopy branches)",
+      "tip": "Spread from tree to tree by birds eating its sticky berries; traditionally steeped in small amounts for circulation.",
+      "summary": "A semi-parasitic evergreen cluster growing high on citrus, mango, and forest tree branches.",
+      "notes": "Traditional Bush Use: Small amounts of the leathery leaves are traditionally simmered by herbalists for blood pressure and circulation support.\n\nEcology: Birds wipe the sticky seeds onto high branches, where the plant taps into the host tree's sap while still photosynthesizing.",
+      "identification": "Rounded clumps of thick, yellowish-green opposite leaves perched directly on tree limbs, with tiny clustered berries.",
+      "bestMix": "Used sparingly with Soursop leaf or Breadfruit leaf; consult a knowledgeable guide.",
+      "tags": [
+        "epiphyte",
+        "canopy",
+        "circulation",
+        "traditional"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b42_1794848565547.jpg"
+    },
     {
       "id": "b41",
       "title": "Castor Oil Leaf (Palma Christi)",
