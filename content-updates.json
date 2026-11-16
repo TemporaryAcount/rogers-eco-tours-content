@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848566395,
+  "contentVersion": 1794848568060,
   "entries": [
+    {
+      "id": "b43",
+      "title": "Passionfruit Leaf & Vine",
+      "subtitle": "Passiflora edulis",
+      "category": "Bush Medicine",
+      "route": "Wingfield & Romney",
+      "toxic": false,
+      "elevation": "200 – 1,600 ft (garden trellises & forest edges)",
+      "tip": "Steeping 2–3 dried passionfruit leaves makes a calming evening tea for restful sleep.",
+      "summary": "Vigorous climbing vine with intricate purple-and-white flowers, tart aromatic fruit, and calming leaves.",
+      "notes": "Traditional Bush Use: Leaves and young tendrils are steeped as a gentle nervine tea to ease restlessness, tension, and support sleep.\n\nField Note: Watch for the dramatic fringed corona of the flower, which attracts carpenter bees along sunny trail borders.",
+      "identification": "Climbing vine with coiled tendrils, glossy 3-lobed leaves, and ornate white-and-purple radial flowers.",
+      "bestMix": "Pairs well with Vervine or Soursop leaf for an evening wind-down tea.",
+      "tags": [
+        "calming",
+        "sleep",
+        "vine",
+        "bush tea"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b43_1794848567382.jpg"
+    },
     {
       "id": "b42",
       "title": "Bird Vine (Caribbean Mistletoe)",
