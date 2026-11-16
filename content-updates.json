@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848573667,
+  "contentVersion": 1794863985916,
   "entries": [
+    {
+      "id": "custom_1794863984203",
+      "title": "Sweet Acacia (Casha)",
+      "subtitle": "Vachellia farnesiana (syn. Acacia farnesiana) / 'Casha'",
+      "category": "Bush Medicine",
+      "route": "Basseterre & Coast",
+      "elevation": "0 - 150 m (arid coastal scrub, dry lowlands & South East Peninsula)",
+      "tip": "The intensely sweet, fragrant yellow puffballs were historically harvested in Europe and the Caribbean to create the luxurious perfume extract known as 'Cassie'.",
+      "toxic": false,
+      "summary": "Sweet Acacia, widely known as Casha across St. Kitts and Nevis, is an armed, drought-hardy shrub recognizable by its fragrant golden puffball flowers, feathery bipinnate leaves, and sharp paired spines. Thriving in the dry coastal thickets and hillsides of the South East Peninsula, it plays a vital role in soil stabilization and drought ecology.",
+      "notes": "Identification traits include zigzagging branches armed with straight, paired stipular spines, finely divided bipinnate foliage, and distinct spherical bright-yellow flower heads that emit a rich, violet-like scent. In St. Kitts and Nevis, casha thickets dominate disturbed pastures and dry coastal woodlands. In regional bush medicine, infusions of the bark and green pods are used as strong astringents to soothe sore throats, stop diarrhea, and treat skin inflammation, while the leaves are sometimes steeped as a mild calming tea. Care must be taken around the fierce thorns, which can easily pierce footwear.",
+      "bestMix": "Boiled bark or pods steeped with ginger or lime peel as an astringent gargle for sore throats and inflamed gums.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1794863984203_1794863984956.jpg",
+      "tags": [
+        "Casha",
+        "Sweet Acacia",
+        "Bush Medicine",
+        "South East Peninsula",
+        "Wildflowers"
+      ]
+    },
     {
       "id": "b46",
       "title": "Spanish Needle (Shepherd's Needle)",
