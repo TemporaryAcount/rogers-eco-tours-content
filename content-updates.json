@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848571913,
+  "contentVersion": 1794848573667,
   "entries": [
+    {
+      "id": "b46",
+      "title": "Spanish Needle (Shepherd's Needle)",
+      "subtitle": "Bidens pilosa",
+      "category": "Bush Medicine",
+      "route": "Mount Liamuiga",
+      "toxic": false,
+      "elevation": "Sea level – 2,000 ft (trail edges & gardens)",
+      "tip": "Its barbed black seeds hitchhike on hikers' socks; the young leaves are brewed as a crisp, peppery tonic tea.",
+      "summary": "Common trailside wildflower with daisy-like white petals, yellow centers, and hitchhiking needle-like seeds.",
+      "notes": "Traditional Bush Use: Tender tops and leaves are steeped for colds, sore throats, and general immune support, or crushed fresh onto minor trail scrapes.\n\nField Note: A favorite nectar source for Caribbean butterflies along sunny rainforest edges.",
+      "identification": "Erect herb with divided serrated leaves, small white-rayed daisy flowers, and clusters of slender black barbed seeds.",
+      "bestMix": "Steep fresh tops with Ginger Root and a squeeze of lime.",
+      "tags": [
+        "trailside",
+        "tonic",
+        "bush tea",
+        "pollinator"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b46_1794848573012.jpg"
+    },
     {
       "id": "b45",
       "title": "Button Sage (White Sage)",
