@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848568060,
+  "contentVersion": 1794848569899,
   "entries": [
+    {
+      "id": "b44",
+      "title": "Papaya Leaf (Pawpaw)",
+      "subtitle": "Carica papaya",
+      "category": "Bush Medicine",
+      "route": "Rainforest Interior",
+      "toxic": false,
+      "elevation": "Sea level – 1,400 ft (villages & clearings)",
+      "tip": "Rich in papain enzymes; crushed green fruit or leaf sap has long been used to tenderize meat and soothe stings.",
+      "summary": "Hollow-stemmed tropical tree crowned with giant deeply lobed leaves and clusters of sweet golden fruit.",
+      "notes": "Traditional Bush Use: Bitter infusions of young papaya leaf are used regionally for digestion and recovery support, while the milky latex from unripe fruit soothes insect bites and tenderizes tough cuts.\n\nSafety: Avoid concentrated leaf decoctions during pregnancy.",
+      "identification": "Unbranched straight trunk marked with leaf scars, topped by a rosette of huge 7-lobed palmate leaves.",
+      "bestMix": "Steep a small piece of leaf with Ginger Root and honey to balance its bitterness.",
+      "tags": [
+        "digestion",
+        "enzymes",
+        "fruit tree",
+        "bitter"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b44_1794848569173.jpg"
+    },
     {
       "id": "b43",
       "title": "Passionfruit Leaf & Vine",
