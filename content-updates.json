@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1794848569899,
+  "contentVersion": 1794848571913,
   "entries": [
+    {
+      "id": "b45",
+      "title": "Button Sage (White Sage)",
+      "subtitle": "Lantana involucrata",
+      "category": "Bush Medicine",
+      "route": "Basseterre & Coast",
+      "toxic": false,
+      "elevation": "Sea level – 500 ft (dry coastal scrub & Southeast Peninsula)",
+      "tip": "Rub a leaf between your fingers for a crisp, minty-camphor scent; used in steam inhalations and bush baths.",
+      "summary": "Aromatic coastal shrub with velvety gray-green leaves and tiny white-lilac flower heads.",
+      "notes": "Traditional Bush Use: Leaves are steeped for chest colds and congestion or added to aromatic bush baths.\n\nContrast: Unlike red-and-orange Lantana camara (which can be toxic), native coastal White/Button Sage is widely respected in Kittitian bush medicine.",
+      "identification": "Compact branching shrub with small wrinkled, aromatic gray-green leaves and tight rounded heads of pale white/lavender flowers.",
+      "bestMix": "Steep with West Indian Bay leaf or Fever Grass for respiratory steam.",
+      "tags": [
+        "aromatic",
+        "coastal",
+        "steam",
+        "bush bath"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b45_1794848571020.jpg"
+    },
     {
       "id": "b44",
       "title": "Papaya Leaf (Pawpaw)",
