@@ -1,6 +1,26 @@
 {
-  "contentVersion": 1795214427476,
+  "contentVersion": 1795215114395,
   "entries": [
+    {
+      "id": "custom_1795215112168",
+      "title": "Lantana",
+      "subtitle": "Lantana × strigocamara",
+      "category": "Plants",
+      "route": "Mount Liamuiga",
+      "elevation": "Low to mid-elevation rainforest areas",
+      "tip": "Keep an eye out for this vibrant, fragrant flower that's a magnet for butterflies and hummingbirds!",
+      "toxic": false,
+      "summary": "This beautiful Lantana is one of the most recognizable plants on our trails. You'll spot its clusters of small, fragrant flowers in shades of yellow, red, and purple along the paths in Mount Liamuiga, the rainforest interior, and even around old sugar estate ruins. Its clusters can grow quite large, making it a stunning sight to behold. With its sweet scent and vibrant colors, it's no wonder this plant attracts so many butterflies and hummingbirds.\n\nLocals have long used Lantana in traditional bush medicine, particularly for its antiseptic and anti-inflammatory properties. Our Kalinago ancestors would often use it to treat wounds and skin irritations. You might even see some of our wildlife friends, like the hummingbirds, sipping nectar from the flowers. When foraging for bush medicine, be sure to identify the plant correctly and use it in moderation.",
+      "notes": "When using Lantana in bush tea or remedies, be sure to pair it with other herbs like lemongrass or ginger for a refreshing and soothing brew. If you're planning to forage for bush medicine, be sure to bring a guide or do plenty of research to ensure safe and responsible harvesting.",
+      "bestMix": "Lemongrass",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795215112168_1795215113515.jpg",
+      "tags": [
+        "plantnet",
+        "cloudflare-ai",
+        "verbenaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795214425437",
       "title": "Blood of Jesus",
