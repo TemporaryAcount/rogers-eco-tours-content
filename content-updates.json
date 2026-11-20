@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795201927742,
+  "contentVersion": 1795202892981,
   "entries": [
+    {
+      "id": "custom_1795202890564",
+      "title": "Catstongue",
+      "subtitle": "Priva lappulacea",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Verbenaceae family (90% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Catstongue (Priva lappulacea) identified by Pl@ntNet with 90% botanical confidence. Botanical family: Verbenaceae. Also known as: Cat's tongue, Clammybur.",
+      "notes": "Identified via Pl@ntNet botanical vision (90% match).\n\nOther Pl@ntNet candidates: Priva adhaerens (4%), Heartleaf velvetbur (0%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795202890564_1795202891841.jpg",
+      "tags": [
+        "plantnet",
+        "verbenaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795201926379",
       "title": "Bellyache bush",
