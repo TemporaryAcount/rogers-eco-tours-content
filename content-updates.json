@@ -1,6 +1,25 @@
 {
-  "contentVersion": 1795203225547,
+  "contentVersion": 1795213286849,
   "entries": [
+    {
+      "id": "custom_1795213285159",
+      "title": "Amyruca",
+      "subtitle": "Psychotria carthagenensis",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Rubiaceae family (86% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Psychotria carthagenensis, also known as amyruca, is a South American rainforest understory shrub from the coffee family, Rubiaceae. It grows from the tropics of South America to Mexico.",
+      "notes": "Identified via Pl@ntNet botanical vision (86% match).\n\nOther Pl@ntNet candidates: Seminole Balsamo (9%), Shortleaf wild coffee (0%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795213285159_1795213286136.jpg",
+      "tags": [
+        "plantnet",
+        "wikipedia",
+        "rubiaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795203206877",
       "title": "National Museum of St. Kitts (Treasury Building)",
