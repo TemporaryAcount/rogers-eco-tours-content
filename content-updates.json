@@ -1,6 +1,28 @@
 {
-  "contentVersion": 1795203035425,
+  "contentVersion": 1795203209102,
   "entries": [
+    {
+      "id": "custom_1795203206877",
+      "title": "National Museum of St. Kitts (Treasury Building)",
+      "subtitle": "Historic Colonial Architecture, Basseterre, St. Kitts",
+      "category": "History",
+      "route": "Basseterre & Coast",
+      "elevation": "Sea level, historic downtown Basseterre, St. Kitts",
+      "tip": "Originally built in 1894 as the Treasury Building, this historic waterfront landmark now houses the National Museum detailing the island's rich heritage and colonial history.",
+      "toxic": false,
+      "summary": "The National Museum of St. Kitts, housed in the iconic former Treasury Building on the Basseterre waterfront, showcases the rich historical, cultural, and archaeological heritage of the island. Its distinctive green-domed rotunda and stone masonry stand as a prominent architectural landmark in the capital.",
+      "notes": "Constructed in 1894 from volcanic stone and volcanic ash bricks, the Treasury Building served as the primary gateway for government administration and maritime trade during the colonial era. Today, managed by the St. Christopher National Trust, it exhibits artifacts tracing the journey from pre-Columbian Amerindian habitation through European colonization and the sugar plantation era to modern independence.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795203206877_1795203208135.jpg",
+      "tags": [
+        "St. Kitts",
+        "Basseterre",
+        "National Museum",
+        "Treasury Building",
+        "Caribbean History",
+        "Architecture",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795203033462",
       "title": "Blood of Jesus",
