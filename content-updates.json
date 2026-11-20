@@ -1,6 +1,28 @@
 {
-  "contentVersion": 1795215114395,
+  "contentVersion": 1795215730948,
   "entries": [
+    {
+      "id": "custom_1795215729277",
+      "title": "Sage",
+      "subtitle": "Salvia officinalis",
+      "category": "Bush Medicine",
+      "route": "Mount Liamuiga",
+      "elevation": "Low to mid-elevation areas in St. Kitts & Nevis",
+      "tip": "Sage is a popular herb used in many Caribbean dishes, but be sure to only pick what's growing wild and in abundance, as it can be a bit bitter if not used correctly.",
+      "toxic": false,
+      "summary": "As we walk through the lush rainforest interior, keep an eye out for this lovely shrub with grayish leaves and delicate blue to purplish flowers. You might spot it growing near old sugar estate ruins or along the coastal paths, where the salty air seems to bring out its best features. Sage is a member of the mint family, and its woody stems and evergreen leaves make it a standout in our island's unique flora. With its long history of culinary use, it's no wonder you'll find it in many a Caribbean dish, from savory meats to sweet desserts.\n\nSage has been a part of our island's heritage for centuries, used by our Kalinago ancestors for its medicinal properties and as a flavoring in traditional bush teas. Be sure to only pick what's growing wild and in abundance, as it can be a bit bitter if not used correctly. In fact, some of our wildlife, like the hummingbirds, just love sipping nectar from its flowers! When foraging, always be mindful of your surroundings and only take what you need, leaving enough for the island's other creatures to enjoy.",
+      "notes": "When using sage in bush teas or remedies, be sure to pair it with other herbs like lemongrass and ginger for a delicious and soothing brew. And remember, always consult with a local expert or a trusted field guide before trying any new plants or remedies. Finally, be sure to only pick what's growing wild and in abundance, as over-foraging can harm the island's delicate ecosystem.",
+      "bestMix": "Lemongrass and ginger",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795215729277_1795215729999.jpg",
+      "tags": [
+        "plantnet",
+        "gbif",
+        "wikipedia",
+        "cloudflare-ai",
+        "lamiaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795215112168",
       "title": "Lantana",
