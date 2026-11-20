@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1794863985916,
+  "contentVersion": 1795201927742,
   "entries": [
+    {
+      "id": "custom_1795201926379",
+      "title": "Bellyache bush",
+      "subtitle": "Jatropha gossypiifolia",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Euphorbiaceae family (82% Pl@ntNet match).",
+      "toxic": true,
+      "summary": "Jatropha gossypiifolia, commonly known as bellyache bush, black physicnut or cotton-leaf physicnut, is a species of flowering plant in the spurge family, Euphorbiaceae. The species is native to Mexico, South America, and the Caribbean islands, but is currently spread throughout the tropics. It is declared noxious weed in Puerto Rico and is naturalised in...",
+      "notes": "Identified via Pl@ntNet botanical vision (82% match).\n\nOther Pl@ntNet candidates: Cnidoscolus (1%), Fetid passionflower (1%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795201926379_1795201926718.jpg",
+      "tags": [
+        "plantnet",
+        "euphorbiaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1794863984203",
       "title": "Sweet Acacia (Casha)",
