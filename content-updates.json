@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795213565077,
+  "contentVersion": 1795214427476,
   "entries": [
+    {
+      "id": "custom_1795214425437",
+      "title": "Blood of Jesus",
+      "subtitle": "Dianthera secunda",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Acanthaceae family (68% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Blood of Jesus (Dianthera secunda) identified by Pl@ntNet with 68% botanical confidence. Botanical family: Acanthaceae. Also known as: Blood leaf, Insulina.",
+      "notes": "Identified via Pl@ntNet botanical vision (68% match).\n\nOther Pl@ntNet candidates: Justicia brasiliana (4%), Thyrsacanthus secundus (3%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795214425437_1795214426493.jpg",
+      "tags": [
+        "plantnet",
+        "acanthaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795213563147",
       "title": "Red Ginger",
