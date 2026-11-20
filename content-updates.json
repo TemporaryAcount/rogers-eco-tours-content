@@ -1,6 +1,25 @@
 {
-  "contentVersion": 1795213286849,
+  "contentVersion": 1795213565077,
   "entries": [
+    {
+      "id": "custom_1795213563147",
+      "title": "Red Ginger",
+      "subtitle": "Alpinia purpurata",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Zingiberaceae family (94% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Alpinia purpurata, commonly referred to as red ginger, ostrich plume and pink cone ginger, is a ginger native to Maluku and the southwest Pacific islands. In typical ginger fashion, A. purpurata is a rhizomatous plant, spreading underground in a horizontal growth habit, sending feeder roots downwards into the substrate and sprouting leafy vertical stems from nodes located along the rhizome. As its common name implies, red ginger blooms with showy inflorescences on long, bright magenta- to red-hued bracts; while they appear to be a blossom, bracts are in fact modified leaves that contain the plant's actual flowers. Bracts are a common feature of many botanical genera, having evolved to protect and resemble the flowers and appeal to pollinators. The actual flower \"parts\" are located inside, often accessed by crawling insects like ants or beetles.",
+      "notes": "Identified via Pl@ntNet botanical vision (94% match).\n\nOther Pl@ntNet candidates: Red Tower Ginger (0%), Crape ginger (0%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795213563147_1795213564069.jpg",
+      "tags": [
+        "plantnet",
+        "wikipedia",
+        "zingiberaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795213285159",
       "title": "Amyruca",
