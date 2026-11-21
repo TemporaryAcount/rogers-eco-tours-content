@@ -1,6 +1,28 @@
 {
-  "contentVersion": 1795279395704,
+  "contentVersion": 1795287831047,
   "entries": [
+    {
+      "id": "custom_1795287829048",
+      "title": "Carolina Anole / Green Anole",
+      "subtitle": "Anolis carolinensis",
+      "category": "Wildlife",
+      "route": "Rainforest Interior",
+      "elevation": "Found across lower elevation gardens, fence posts, and forested edges on St. Kitts and Nevis",
+      "tip": "Often called 'chameleons' locally due to their ability to shift from bright green to brown depending on temperature and mood.",
+      "toxic": false,
+      "summary": "The green anole is a slender, arboreal lizard frequently spotted clinging to wooden fences, tree trunks, and garden foliage throughout St. Kitts and Nevis. Known for its ability to change color and a distinctive pinkish-red dewlap displayed by males during courtship.",
+      "notes": "Anoles are opportunistic insectivores that help control garden pests like flies, mosquitoes, and small beetles. While not native to every Caribbean island historically, introduced populations thrive in disturbed habitats, human settlements, and agricultural zones across St. Kitts and Nevis.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795287829048_1795287829934.jpg",
+      "tags": [
+        "lizard",
+        "anole",
+        "reptile",
+        "wildlife",
+        "st kitts",
+        "nevis",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795279393697",
       "title": "Domestic Cat (Ginger Tabby)",
