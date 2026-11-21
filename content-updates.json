@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795297386043,
+  "contentVersion": 1795297740482,
   "entries": [
+    {
+      "id": "custom_1795297725131",
+      "title": "Wild cosmos",
+      "subtitle": "Cosmos caudatus",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asteraceae family (40% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Cosmos caudatus or king's salad is an annual plant in the genus Cosmos, bearing purple, pink, or white ray florets. It is native to Latin America, and the West Indies, though naturalized in tropical parts of Asia, Africa, and Australia.",
+      "notes": "Identified via Pl@ntNet botanical vision (40% match).\n\nOther Pl@ntNet candidates: Sulphur cosmos (18%), Signet marigold (3%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795297725131_1795297739584.jpg",
+      "tags": [
+        "plantnet",
+        "asteraceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795297380712",
       "title": "Golden trumpet",
