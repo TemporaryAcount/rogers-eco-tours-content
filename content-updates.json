@@ -1,6 +1,42 @@
 {
-  "contentVersion": 1795297740482,
+  "contentVersion": 1795298176640,
   "entries": [
+    {
+      "id": "custom_1795298153193",
+      "title": "Rangoon creeper",
+      "subtitle": "Combretum indicum",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Combretaceae family (52% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Combretum indicum, commonly known as the Rangoon creeper or Burma creeper, is a vine with red flower clusters which is native to tropical Asia and grows in thickets, primary and secondary forest, and along river banks in the Indian subcontinent, Malaysia and the Philippines. It has since been cultivated and naturalized in tropical areas such as Burma, Vie...",
+      "notes": "Identified via Pl@ntNet botanical vision (52% match).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795298153193_1795298175776.jpg",
+      "tags": [
+        "plantnet",
+        "combretaceae",
+        "flora"
+      ]
+    },
+    {
+      "id": "custom_1795297724046",
+      "title": "Sulphur cosmos",
+      "subtitle": "Cosmos sulphureus",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asteraceae family (24% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Cosmos sulphureus is a species of flowering plant in the sunflower family Asteraceae, also known as sulfur cosmos and yellow cosmos. It is native to Mexico, Central America, and northern South America, and naturalized in other parts of North and South America as well as in Europe, Asia, and Australia. It was introduced into Asia from Mexico via the Manila...",
+      "notes": "Identified via Pl@ntNet botanical vision (24% match).\n\nOther Pl@ntNet candidates: Wild cosmos (9%), Arizona Beggarticks (5%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795297724046_1795297740125.jpg",
+      "tags": [
+        "plantnet",
+        "asteraceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795297725131",
       "title": "Wild cosmos",
