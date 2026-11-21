@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795279062220,
+  "contentVersion": 1795279086836,
   "entries": [
+    {
+      "id": "custom_1795279084099",
+      "title": "Asian sword fern",
+      "subtitle": "Nephrolepis brownii",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Polypodiaceae family (52% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Nephrolepis brownii, the Asian sword fern, is a species of fern native to Asia and introduced elsewhere. It is a perennial herb and grows up to 3 ft (0.91 m) tall.",
+      "notes": "Identified via Pl@ntNet botanical vision (52% match).\n\nOther Pl@ntNet candidates: Giant swordfern (28%), Boston fern (4%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795279084099_1795279085959.jpg",
+      "tags": [
+        "plantnet",
+        "polypodiaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795279059354",
       "title": "Snake plant",
