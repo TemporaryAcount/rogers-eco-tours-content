@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795278953278,
+  "contentVersion": 1795278986227,
   "entries": [
+    {
+      "id": "custom_1795278983364",
+      "title": "Broadleaf palm lily",
+      "subtitle": "Cordyline fruticosa",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asparagaceae family (90% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Cordyline fruticosa is an evergreen flowering plant in the family Asparagaceae. It is known by a wide variety of common names, including ti plant, palm lily, and cabbage palm.",
+      "notes": "Identified via Pl@ntNet botanical vision (90% match).\n\nOther Pl@ntNet candidates: Cabbage Palm (1%), Pearl Millet (1%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795278983364_1795278985326.jpg",
+      "tags": [
+        "plantnet",
+        "asparagaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795278950575",
       "title": "Satin pothos",
