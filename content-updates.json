@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795277149721,
+  "contentVersion": 1795277233399,
   "entries": [
+    {
+      "id": "custom_1795277230948",
+      "title": "Dwarf banana",
+      "subtitle": "Musa acuminata",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Musaceae family (80% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Musa acuminata is a species of banana native to Southern Asia, its range comprising the Indian subcontinent and Southeast Asia. Many of the modern edible dessert bananas are derived from this species, although some are hybrids with Musa balbisiana. First cultivated by humans around 8000 BCE, it is one of the earlier examples of domesticated plants.",
+      "notes": "Identified via Pl@ntNet botanical vision (80% match).\n\nOther Pl@ntNet candidates: Banana (9%), Elusive banana (0%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795277230948_1795277232435.jpg",
+      "tags": [
+        "plantnet",
+        "musaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795277146478",
       "title": "Avocado",
