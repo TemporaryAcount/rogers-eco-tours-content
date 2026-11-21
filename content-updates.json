@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795298953948,
+  "contentVersion": 1795299439819,
   "entries": [
+    {
+      "id": "custom_1795299436854",
+      "title": "Dumb cane",
+      "subtitle": "Dieffenbachia seguine",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Araceae family (41% Pl@ntNet match).",
+      "toxic": true,
+      "summary": "Dieffenbachia seguine, widely known as dumbcane, as well as leopard lily or tuftroot, is a species of Dieffenbachia, a flowering aroid plant of the family Araceae. It is native to the neotropical realm of the Americas, from extreme southern Mexico and Belize and much of Central America, as well as the northern half of South America. It is found on many Ca...",
+      "notes": "Identified via Pl@ntNet botanical vision (41% match).\n\nOther Pl@ntNet candidates: Spotted evergreen (38%), Chinese evergreen (9%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795299436854_1795299439129.jpg",
+      "tags": [
+        "plantnet",
+        "araceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795298335238",
       "title": "Velvetleaf",
