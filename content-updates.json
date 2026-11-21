@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795278467101,
+  "contentVersion": 1795278527962,
   "entries": [
+    {
+      "id": "custom_1795278522325",
+      "title": "Guineagrass",
+      "subtitle": "Megathyrsus maximus",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Poaceae family (67% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Megathyrsus maximus, known as Guinea grass and green panic grass, is a large perennial bunch grass that is native to Africa and Yemen. It has been introduced in the tropics around the world. It has previously been called Urochloa maxima and Panicum maximum. It was moved to the genus Megathyrsus in 2003.",
+      "notes": "Identified via Pl@ntNet botanical vision (67% match).\n\nOther Pl@ntNet candidates: Blackwell Switchgrass (16%), Annual wildrice (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795278522325_1795278527004.jpg",
+      "tags": [
+        "plantnet",
+        "poaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795278464110",
       "title": "Song of-India",
