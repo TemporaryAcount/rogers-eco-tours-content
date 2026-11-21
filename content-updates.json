@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795277233399,
+  "contentVersion": 1795278389257,
   "entries": [
+    {
+      "id": "custom_1795278387047",
+      "title": "Golden dewdrops",
+      "subtitle": "Duranta erecta",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Verbenaceae family (92% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Duranta erecta is a species of flowering shrub in the verbena family Verbenaceae, native from Mexico to South America and the Caribbean. It is widely cultivated as an ornamental plant in tropical and subtropical gardens throughout the world, and has become naturalized in many places. Common names include golden dewdrop, pigeon berry, and skyflower.",
+      "notes": "Identified via Pl@ntNet botanical vision (92% match).\n\nOther Pl@ntNet candidates: Duranta serratifolia (2%), Brazilian Sky flower (0%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795278387047_1795278388441.jpg",
+      "tags": [
+        "plantnet",
+        "verbenaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795277230948",
       "title": "Dwarf banana",
