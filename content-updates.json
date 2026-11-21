@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795278389257,
+  "contentVersion": 1795278467101,
   "entries": [
+    {
+      "id": "custom_1795278464110",
+      "title": "Song of-India",
+      "subtitle": "Dracaena reflexa",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asparagaceae family (85% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Dracaena reflexa is a tree native to Mozambique, Madagascar, Mauritius, and other nearby islands of the Indian Ocean. It is widely grown as an ornamental plant and houseplant, valued for its richly coloured, evergreen leaves, and thick, irregular stems.",
+      "notes": "Identified via Pl@ntNet botanical vision (85% match).\n\nOther Pl@ntNet candidates: Lucky bamboo (4%), Suji (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795278464110_1795278466201.jpg",
+      "tags": [
+        "plantnet",
+        "asparagaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795278387047",
       "title": "Golden dewdrops",
