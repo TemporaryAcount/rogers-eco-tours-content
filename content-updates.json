@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795278986227,
+  "contentVersion": 1795279016418,
   "entries": [
+    {
+      "id": "custom_1795279014241",
+      "title": "Desert rose",
+      "subtitle": "Adenium obesum",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Apocynaceae family (71% Pl@ntNet match).",
+      "toxic": true,
+      "summary": "Adenium obesum, more commonly known as a desert rose, is a poisonous species of flowering plant belonging to the tribe Nerieae of the subfamily Apocynoideae of the dogbane family, Apocynaceae. It is native to the Sahel regions south of the Sahara, tropical and subtropical eastern and southern Africa, as well as the Arabian Peninsula. Other names for the f...",
+      "notes": "Identified via Pl@ntNet botanical vision (71% match).\n\nOther Pl@ntNet candidates: Impala lily (18%), Brazilian jasmine (0%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795279014241_1795279015728.jpg",
+      "tags": [
+        "plantnet",
+        "apocynaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795278983364",
       "title": "Broadleaf palm lily",
