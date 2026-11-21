@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795215730948,
+  "contentVersion": 1795277149721,
   "entries": [
+    {
+      "id": "custom_1795277146478",
+      "title": "Avocado",
+      "subtitle": "Persea americana",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Lauraceae family (35% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "The avocado, alligator pear or avocado pear is an evergreen tree in the laurel family (Lauraceae). It is native to the Americas, with archaeological evidence of early human avocado use dating back thousands of years across various regions of Central and South America. It was prized for its large and unusually oily fruit. The native range of avocado extend...",
+      "notes": "Identified via Pl@ntNet botanical vision (35% match).\n\nOther Pl@ntNet candidates: Mammee apple (12%), Doum palm (7%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795277146478_1795277148721.jpg",
+      "tags": [
+        "plantnet",
+        "lauraceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795215729277",
       "title": "Sage",
