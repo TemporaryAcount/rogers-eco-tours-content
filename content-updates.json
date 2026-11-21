@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795291259102,
+  "contentVersion": 1795297386043,
   "entries": [
+    {
+      "id": "custom_1795297380712",
+      "title": "Golden trumpet",
+      "subtitle": "Allamanda cathartica",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Apocynaceae family (84% Pl@ntNet match).",
+      "toxic": true,
+      "summary": "Allamanda cathartica, commonly called golden trumpet, common trumpetvine, and yellow allamanda, is a species of flowering plant in the family Apocynaceae. It is native to Bolivia, Brazil, French Guiana, Guyana, Suriname, and Venezuela, and widely naturalised elsewhere in the tropics. This plant is cited in Flora Brasiliensis by Carl Friedrich Philipp von...",
+      "notes": "Identified via Pl@ntNet botanical vision (84% match).\n\nOther Pl@ntNet candidates: Yellow bells (1%), Bush allamanda (1%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795297380712_1795297385092.jpg",
+      "tags": [
+        "plantnet",
+        "apocynaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795291255955",
       "title": "Coat buttons",
