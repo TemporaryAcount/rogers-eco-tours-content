@@ -1,6 +1,26 @@
 {
-  "contentVersion": 1795287831047,
+  "contentVersion": 1795288515266,
   "entries": [
+    {
+      "id": "p14",
+      "title": "Stinging Nettle (Cow Itch)",
+      "subtitle": "Mucuna pruriens",
+      "category": "Plants",
+      "route": "Wingfield & Romney",
+      "toxic": true,
+      "elevation": "100–1,200 ft Overgrown Edges",
+      "tip": "Velvety seed pods carry intensely irritating hairs.",
+      "summary": "Climbing vine whose brown fuzzy pods release fine hairs causing fierce itching.",
+      "notes": "Ecology & Habitat: A vigorous twining vine found along sunny bush edges, abandoned sugarcane fields, and lower ghaut scrub.\n\nDefense & Botany: Hanging clusters of S-shaped seed pods are velveted with golden-brown hairs containing serotonin and mucunain; even a light breeze or brush releases hairs that cause intense itching ('Cow Itch').\n\nScientific Note: Ironically, the beans inside are rich in L-DOPA, studied globally in neurology, though raw pods should never be touched bare-handed on the trail.",
+      "identification": "Twining vine with three-part leaves and hanging clusters of S-shaped pods covered in dense, golden-brown velvety stinging hairs.",
+      "tags": [
+        "toxic",
+        "itch",
+        "vine",
+        "safety"
+      ],
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/p14_1795288514347.jpg"
+    },
     {
       "id": "custom_1795287829048",
       "title": "Carolina Anole / Green Anole",
