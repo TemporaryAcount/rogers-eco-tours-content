@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795279184408,
+  "contentVersion": 1795279395704,
   "entries": [
+    {
+      "id": "custom_1795279393697",
+      "title": "Domestic Cat (Ginger Tabby)",
+      "subtitle": "Felis catus",
+      "category": "Wildlife",
+      "route": "Basseterre & Coast",
+      "elevation": "Found across all elevations from coastal settlements to plantation estates",
+      "tip": "Stray and free-roaming domestic cats are common around Kittitian villages, guesthouses, and historic estates, often helping control rodent populations.",
+      "toxic": false,
+      "summary": "The domestic cat is a ubiquitous companion and working animal throughout the towns, villages, and estates of St. Kitts and Nevis. This orange tabby exhibits classic ginger markings and an alert expression.",
+      "notes": "Introduced to the islands during the colonial era, cats have adapted successfully to both indoor domestic life and outdoor rural environments. They play an essential role in managing pests around sugar estate ruins and residential properties.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795279393697_1795279394829.jpg",
+      "tags": [
+        "cat",
+        "feline",
+        "pet",
+        "domestic animal",
+        "st. kitts wildlife",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795279182446",
       "title": "Mother of Thousands",
