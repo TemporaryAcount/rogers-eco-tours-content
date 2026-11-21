@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795279086836,
+  "contentVersion": 1795279184408,
   "entries": [
+    {
+      "id": "custom_1795279182446",
+      "title": "Mother of Thousands",
+      "subtitle": "Kalanchoe daigremontiana (Bryophyllum daigremontianum)",
+      "category": "Plants",
+      "route": "Basseterre & Coast",
+      "elevation": "Sea level to low elevations, widely naturalized in dry coastal scrub and garden borders",
+      "tip": "True to its name, this succulent produces hundreds of tiny plantlets along its leaf margins that drop and root effortlessly wherever they land.",
+      "toxic": true,
+      "summary": "A striking succulent native to Madagascar that has naturalized across dry areas of St. Kitts, recognized by its fleshy green leaves spotted with purple underneath and lined with baby plantlets along the edges.",
+      "notes": "Introduced as an ornamental garden plant, this species has successfully escaped cultivation in the drier, sunnier zones of St. Kitts. It is extremely drought-tolerant and stores water in its thick leaves. Warning: Like many Kalanchoe species, it contains cardiac glycosides (such as daigremontianin) and is highly toxic to grazing animals, cats, and dogs if ingested.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795279182446_1795279183485.jpg",
+      "tags": [
+        "succulent",
+        "invasive",
+        "ornamental",
+        "toxic",
+        "coastal scrub",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795279084099",
       "title": "Asian sword fern",
