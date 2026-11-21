@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795279016418,
+  "contentVersion": 1795279062220,
   "entries": [
+    {
+      "id": "custom_1795279059354",
+      "title": "Snake plant",
+      "subtitle": "Dracaena hyacinthoides",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asparagaceae family (23% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Dracaena hyacinthoides, called the African bowstring hemp, Somali hemp, Somali good luck plant, piles root, iguanatail, and mother-in-law's-tongue, is a species of flowering plant in the family Asparagaceae. It is native to eastern Africa, from Kenya to South Africa, and it has been introduced to other locales, particularly Florida, the Caribbean, and Cen...",
+      "notes": "Identified via Pl@ntNet botanical vision (23% match).\n\nOther Pl@ntNet candidates: Snake plant (21%), Snake plant (15%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795279059354_1795279061301.jpg",
+      "tags": [
+        "plantnet",
+        "asparagaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795279014241",
       "title": "Desert rose",
