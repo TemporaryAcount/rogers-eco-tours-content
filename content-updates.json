@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795298176640,
+  "contentVersion": 1795298342212,
   "entries": [
+    {
+      "id": "custom_1795298335238",
+      "title": "Velvetleaf",
+      "subtitle": "Abutilon theophrasti",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Malvaceae family (45% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Abutilon theophrasti, also known as velvetleaf, velvet plant, velvetweed and the Chinese jute, is an annual plant in the family Malvaceae that is native to Central and East Asia. It is the type species of the genus Abutilon. Its specific epithet, theophrasti, commemorates the ancient Greek botanist-philosopher Theophrastus.",
+      "notes": "Identified via Pl@ntNet botanical vision (45% match).\n\nOther Pl@ntNet candidates: Afopotsy (5%), Monkeybush (4%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795298335238_1795298341310.jpg",
+      "tags": [
+        "plantnet",
+        "malvaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795298153193",
       "title": "Rangoon creeper",
