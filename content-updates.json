@@ -1,6 +1,28 @@
 {
-  "contentVersion": 1795278765729,
+  "contentVersion": 1795278768148,
   "entries": [
+    {
+      "id": "custom_1795278762987",
+      "title": "Stachytarpheta jamaicensis (Blue Porterweed / Vervine)",
+      "subtitle": "Stachytarpheta jamaicensis / Vervine",
+      "category": "Bush Medicine",
+      "route": "Rainforest Interior",
+      "elevation": "Found from sea level up to mid-elevation trail edges and disturbed moist soils throughout St. Kitts & Nevis.",
+      "tip": "Vervine tea has a long history in Kittitian folk medicine as a cleansing tonic and digestive aid.",
+      "toxic": false,
+      "summary": "Blue Porterweed, locally known as Vervine, is a resilient native herb featuring jagged, bright green opposite leaves and slender flowering spikes. In St. Kitts and Nevis, it is widely gathered from field edges and trails for use in traditional herbal remedies.",
+      "notes": "In traditional Caribbean bush medicine, Vervine is steeped as a medicinal tea (bush tea) commonly consumed to cool the blood, ease stomach complaints, and soothe minor colds. It is also an important nectar plant for local butterflies and pollinators across the Leeward Islands.",
+      "bestMix": "Best paired with lemongrass or mint when prepared as a soothing traditional bush tea.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795278762987_1795278767363.jpg",
+      "tags": [
+        "St. Kitts and Nevis",
+        "Bush Medicine",
+        "Vervine",
+        "Herbal Tea",
+        "Rainforest Flora",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795278632830",
       "title": "Aloe vera",
