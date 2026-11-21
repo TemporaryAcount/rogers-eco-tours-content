@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795288515266,
+  "contentVersion": 1795291259102,
   "entries": [
+    {
+      "id": "custom_1795291255955",
+      "title": "Coat buttons",
+      "subtitle": "Tridax procumbens",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asteraceae family (52% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Tridax procumbens, commonly known as coatbuttons or tridax daisy, is a species of flowering plant in the family Asteraceae. It is best known as a widespread weed and pest plant. It is native to the tropical Americas including Mexico, but it has been introduced to tropical, subtropical, and mild temperate regions worldwide. It is listed as a noxious weed i...",
+      "notes": "Identified via Pl@ntNet botanical vision (52% match).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795291255955_1795291258255.jpg",
+      "tags": [
+        "plantnet",
+        "asteraceae",
+        "flora"
+      ]
+    },
     {
       "id": "p14",
       "title": "Stinging Nettle (Cow Itch)",
