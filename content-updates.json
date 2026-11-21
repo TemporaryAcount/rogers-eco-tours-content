@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795278768148,
+  "contentVersion": 1795278845626,
   "entries": [
+    {
+      "id": "custom_1795278843416",
+      "title": "Heart of Jesus",
+      "subtitle": "Caladium bicolor",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Araceae family (84% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Heart of Jesus (Caladium bicolor) identified by Pl@ntNet with 84% botanical confidence. Botanical family: Araceae. Also known as: Caladium, Angel wings.",
+      "notes": "Identified via Pl@ntNet botanical vision (84% match).\n\nOther Pl@ntNet candidates: Dwarf Caladium (4%), Golden dust caladium (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795278843416_1795278844567.jpg",
+      "tags": [
+        "plantnet",
+        "araceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795278762987",
       "title": "Stachytarpheta jamaicensis (Blue Porterweed / Vervine)",
