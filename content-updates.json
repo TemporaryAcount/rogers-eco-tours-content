@@ -1,5 +1,5 @@
 {
-  "contentVersion": 1795560739074,
+  "contentVersion": 1795561101816,
   "entries": [
     {
       "id": "custom_1795560637109",
@@ -120,11 +120,12 @@
       "elevation": "St. Kitts & Nevis Flora",
       "tip": "Member of the Combretaceae family (52% Pl@ntNet match).",
       "toxic": false,
-      "summary": "Combretum indicum, commonly known as the Rangoon creeper or Burma creeper, is a vine with red flower clusters which is native to tropical Asia and grows in thickets, primary and secondary forest, and along river banks in the Indian subcontinent, Malaysia and the Philippines. It has since been cultivated and naturalized in tropical areas such as Burma, Vie...",
-      "notes": "Identified via Pl@ntNet botanical vision (52% match).",
-      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795298153193_1795298175776.jpg",
+      "summary": "Combretum indicum, commonly known as the Rangoon creeper or Burma creeper, is a vine with red flower clusters which is native to tropical Asia and grows in thickets, primary and secondary forest, and along river banks in the Indian subcontinent, Malaysia and the Philippines. It has since been cultivated and naturalized in tropical areas such as Burma, Vietnam, and Thailand.",
+      "notes": "Identified via Pl@ntNet botanical vision + iNaturalist taxonomy (52% match).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795298153193_1795561100643.jpg",
       "tags": [
         "plantnet",
+        "inaturalist",
         "combretaceae",
         "flora"
       ]
