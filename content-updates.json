@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795562285048,
+  "contentVersion": 1795563128165,
   "entries": [
+    {
+      "id": "custom_1795563124421",
+      "title": "Aloe vera",
+      "subtitle": "Aloe vera",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asphodelaceae family (80% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Aloe vera is a succulent plant species of the genus Aloe. It is widely distributed and is considered an invasive species in many regions of the world.",
+      "notes": "Identified via Pl@ntNet botanical vision (80% match).\n\nOther Pl@ntNet candidates: Aloe Vera (2%), Arabian Aloe (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795563124421_1795563126712.jpg",
+      "tags": [
+        "plantnet",
+        "asphodelaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795562282566",
       "title": "Sodom apple",
