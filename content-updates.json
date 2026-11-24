@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795543026683,
+  "contentVersion": 1795560144701,
   "entries": [
+    {
+      "id": "custom_1795560142707",
+      "title": "Hibiscus × archeri",
+      "subtitle": "Hibiscus × archeri",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Malvaceae family (63% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Hibiscus × archeri, the red hibiscus, is an artificial hybrid species of flowering plant in the family Malvaceae. Its parents are Hibiscus schizopetalus and Hibiscus × rosa-sinensis. A shrub or small tree, there appear to be a number of cultivars.",
+      "notes": "Identified via Pl@ntNet botanical vision (63% match).\n\nOther Pl@ntNet candidates: Chinese Hibiscus (11%), Mandrinette (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795560142707_1795560143719.jpg",
+      "tags": [
+        "plantnet",
+        "malvaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795543023225",
       "title": "Hibiscus × archeri",
@@ -847,6 +865,75 @@
         "yard herb"
       ],
       "image": "https://rogersecosai.rashidirogers.workers.dev/photos/b39_1794848559547.jpg"
+    },
+    {
+      "id": "trail-lawyer-stephens-cave",
+      "title": "Lawyer Stephen's Cave",
+      "subtitle": "Olivees Mountain Volcanic Shelter • Moderate Hike",
+      "category": "Geology & Trails",
+      "route": "Basseterre & Coast",
+      "elevation": "~408 m (1,339 ft) • ~3 hrs round-trip",
+      "tip": "Follow the dirt road north of Caribbean Cinemas past the cement water tank—watch for the right-hand spur before the old cement tub.",
+      "toxic": false,
+      "summary": "Carved into consolidated volcanic ash and pyroclastic tuff on the lower flank of Olivees Mountain, this rock shelter is tied in St. Kitts oral tradition to 17th-century maroons and abolitionist barrister James Stephen. The cave features a carved ventilation smoke hole and sits just off the trail to a mountain waterfall.",
+      "identification": "Excavated volcanic tuff chamber beneath a harder overlying basaltic rock roof with a man-made smoke vent. Trailhead: 17°18.783' N, 62°44.875' W | Cave: 17°19.255' N, 62°45.368' W.",
+      "notes": "Moderate ~3-hour round-trip hike to the cave and first waterfall (~5 hours if extending to the second waterfall). If you pass the old cement tub on the left, you walked just past the right-hand spur trail up to the cave.",
+      "bestMix": "",
+      "image": "",
+      "tags": [
+        "geology",
+        "trails",
+        "moderate-hike",
+        "olivees-mountain",
+        "maroon-history",
+        "waterfall"
+      ]
+    },
+    {
+      "id": "trail-sofa-stone-monkey-hill",
+      "title": "Sofa Stone (Monkey Hill)",
+      "subtitle": "Eroded Volcanic Boulder Lookout • Light Hike",
+      "category": "Geology & Trails",
+      "route": "Basseterre & Coast",
+      "elevation": "~402 m (1,319 ft) • ~2 to 2.5 hrs round-trip",
+      "tip": "A great light hike (~60 min ascent) with panoramic views over Basseterre, Frigate Bay, and the Southeast Peninsula—wear grippy shoes as upper grass gets slick.",
+      "toxic": false,
+      "summary": "Framed by mango trees and date palms near the summit of Monkey Hill, Sofa Stone is a naturally hollowed volcanic boulder shaped like a giant seat. Wind and rainwater weathered out the softer interior of an ancient lava-dome boulder, leaving a dramatic ridge-top overlook.",
+      "identification": "Concave, seat-shaped volcanic rock formation surrounded by coastal dry forest, mango trees, date palms, and grassy summit ridges. Coordinates: 17.3267° N, 62.7317° W.",
+      "notes": "Classified as a light hike compared to the central mountain range. Green vervet monkeys are frequently spotted along the ridge. Upper rock and grassy slopes become slippery after rain.",
+      "bestMix": "",
+      "image": "",
+      "tags": [
+        "geology",
+        "trails",
+        "light-hike",
+        "monkey-hill",
+        "volcanic-boulder",
+        "lookout"
+      ]
+    },
+    {
+      "id": "trail-old-military-trail",
+      "title": "Old Military Trail",
+      "subtitle": "Cross-Island Volcanic Saddle • Strenuous Guided Hike",
+      "category": "Geology & Trails",
+      "route": "Wingfield & Romney",
+      "elevation": "Central Forest Reserve • ~4 to 6 hrs point-to-point",
+      "tip": "Built during the Anglo-French partition so British troops could cross from Wingfield to Phillips without entering French-held Basseterre.",
+      "toxic": false,
+      "summary": "Cutting straight through the Central Forest Reserve from Wingfield/Romney Manor (Caribbean side) to Phillips/Molineux (Atlantic side), this historic colonial corridor traverses the eroded volcanic saddle between Verchild's Mountain and Mount Liamuiga.",
+      "identification": "Steep rainforest river gorges exposing layered andesitic lava flows, volcanic mudflows (lahars), and deep stream cuts. West Trailhead: 17.3385° N, 62.7945° W | East Trailhead: 17.3685° N, 62.7625° W.",
+      "notes": "Strenuous 4–6 hour point-to-point crossing requiring a pre-arranged pickup shuttle on the exit coast and an experienced guide. Also serves as the main approach junction for the steep ascent to Dos d'Ane Pond.",
+      "bestMix": "",
+      "image": "",
+      "tags": [
+        "geology",
+        "trails",
+        "strenuous-hike",
+        "central-forest-reserve",
+        "wingfield",
+        "cross-island"
+      ]
     }
   ]
 }
