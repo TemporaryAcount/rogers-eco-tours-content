@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795563128165,
+  "contentVersion": 1795563204890,
   "entries": [
+    {
+      "id": "custom_1795563202255",
+      "title": "Green Anole",
+      "subtitle": "Anolis carolinensis",
+      "category": "Wildlife",
+      "route": "Rainforest Interior",
+      "elevation": "Rainforest Interior",
+      "tip": "Spotted in Rainforest Interior (100% Vision match).",
+      "toxic": false,
+      "summary": "The green anole is a small, arboreal lizard that is commonly found in the rainforests of St. Kitts and Nevis. It has a prehensile tail and can change color from green to brown to blend in with its surroundings. The green anole is a popular pet due to its small size and docile nature. Anolis carolinensis or green anole is a tree-dwelling species of anole lizard native to the southeastern United States and introduced to islands in the Pacific and Caribbean. A small to medium-sized lizard, the green anole is a trunk-crown ecomorph and can change its color to several shades from brown to green.",
+      "notes": "Look for the green anole in trees and bushes, particularly near flowers and leaves. It is most active during the day and can be seen basking in the sun or chasing insects. If handled, the green anole will often curl up into a ball for defense.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795563202255_1795563203770.jpg",
+      "tags": [
+        "wildlife",
+        "cloudflare-vision",
+        "inaturalist"
+      ]
+    },
     {
       "id": "custom_1795563124421",
       "title": "Aloe vera",
