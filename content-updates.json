@@ -1,6 +1,25 @@
 {
-  "contentVersion": 1795561137906,
+  "contentVersion": 1795562285048,
   "entries": [
+    {
+      "id": "custom_1795562282566",
+      "title": "Sodom apple",
+      "subtitle": "Calotropis procera",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Apocynaceae family (73% Pl@ntNet match).",
+      "toxic": true,
+      "summary": "Calotropis procera is a species of flowering plant in the family Apocynaceae that is native to Northern and Tropical Africa, Western Asia, South Asia and Indochina.",
+      "notes": "Identified via Pl@ntNet botanical vision + iNaturalist taxonomy (73% match).\n\nOther Pl@ntNet candidates: Giant Milkweed (1%), Common milkweed (0%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795562282566_1795562283954.jpg",
+      "tags": [
+        "plantnet",
+        "inaturalist",
+        "apocynaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795561135965",
       "title": "Sodom apple",
