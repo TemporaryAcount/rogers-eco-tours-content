@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795529673263,
+  "contentVersion": 1795543026683,
   "entries": [
+    {
+      "id": "custom_1795543023225",
+      "title": "Hibiscus × archeri",
+      "subtitle": "Hibiscus × archeri",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Malvaceae family (63% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Hibiscus × archeri, the red hibiscus, is an artificial hybrid species of flowering plant in the family Malvaceae. Its parents are Hibiscus schizopetalus and Hibiscus × rosa-sinensis. A shrub or small tree, there appear to be a number of cultivars.",
+      "notes": "Identified via Pl@ntNet botanical vision (63% match).\n\nOther Pl@ntNet candidates: Chinese Hibiscus (11%), Mandrinette (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795543023225_1795543025365.jpg",
+      "tags": [
+        "plantnet",
+        "malvaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795529670659",
       "title": "Cheakyberry",
