@@ -1,6 +1,26 @@
 {
-  "contentVersion": 1795560144701,
+  "contentVersion": 1795560639565,
   "entries": [
+    {
+      "id": "custom_1795560637109",
+      "title": "Cheakyberry (Chinkaberry)",
+      "subtitle": "Palicourea domingensis",
+      "category": "Bush Medicine",
+      "route": "Rainforest Interior",
+      "elevation": "Mid to high elevation moist forests (300 to 700 meters)",
+      "tip": "Look for the striking contrast of vibrant flowers and jewel-toned berries tucked beneath glossy green leaves in the misty rainforest interior.",
+      "toxic": false,
+      "summary": "Palicourea domingensis, locally known as Cheakyberry, is a vibrant shrub in the coffee family (Rubiaceae) native to the Caribbean. It features glossy opposite leaves, clusters of tubular flowers, and colorful berries that thrive in the rich, volcanic soils of St. Kitts.",
+      "notes": "In traditional Caribbean herbalism and Kittitian bush medicine, various species of the Rubiaceae family are utilized for teas and tonics to address fevers and digestive complaints. Visitors should admire the beauty of the berries on the trail while respecting local conservation guidelines in the protected rainforest zones. (Pl@ntNet 77% match).\n\nOther Pl@ntNet candidates: Tabernaemontana heterophylla (2%), Palicourea tetragona (1%).",
+      "bestMix": "Lemongrass and Bush Tea leaves",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795560637109_1795560638459.jpg",
+      "tags": [
+        "plantnet",
+        "gemini-enriched",
+        "rubiaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795560142707",
       "title": "Hibiscus × archeri",
