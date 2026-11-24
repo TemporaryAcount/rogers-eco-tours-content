@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795299439819,
+  "contentVersion": 1795529673263,
   "entries": [
+    {
+      "id": "custom_1795529670659",
+      "title": "Cheakyberry",
+      "subtitle": "Palicourea domingensis",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Rubiaceae family (77% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Cheakyberry (Palicourea domingensis) identified by Pl@ntNet with 77% botanical confidence. Botanical family: Rubiaceae.",
+      "notes": "Identified via Pl@ntNet botanical vision (77% match).\n\nOther Pl@ntNet candidates: Tabernaemontana heterophylla (2%), Palicourea tetragona (1%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795529670659_1795529672287.jpg",
+      "tags": [
+        "plantnet",
+        "rubiaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795299436854",
       "title": "Dumb cane",
