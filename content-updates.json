@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795613389620,
+  "contentVersion": 1795613559074,
   "entries": [
+    {
+      "id": "custom_1795613556165",
+      "title": "Crustose Lichen",
+      "subtitle": "Lecanoromycetes",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "Found from sea level up to the cloud forests of Mount Liamuiga",
+      "tip": "Lichens are nature's air quality monitors; their presence on these trees indicates the clean, unpolluted air of our island's interior.",
+      "toxic": false,
+      "summary": "This is a crustose lichen, a symbiotic organism composed of fungi and algae that forms a thin, paint-like crust on tree bark. It is a common sight on the trunks of trees throughout the humid, shaded environments of St. Kitts' rainforests.",
+      "notes": "In the high-humidity environment of the St. Kitts rainforest, these lichens thrive on the bark of various native trees. They play a vital role in the ecosystem by breaking down minerals and contributing to soil formation. While they are not used in traditional Kittitian bush medicine, they are a testament to the ecological health of the island's protected forest reserves.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795613556165_1795613557981.jpg",
+      "tags": [
+        "Lichen",
+        "Rainforest",
+        "Ecology",
+        "St. Kitts",
+        "Biodiversity",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795613387244",
       "title": "Pleated Inkcap",
