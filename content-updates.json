@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795613559074,
+  "contentVersion": 1795613770457,
   "entries": [
+    {
+      "id": "custom_1795613767641",
+      "title": "Paper Wasp",
+      "subtitle": "Polistes dominula / Polistes species",
+      "category": "Wildlife",
+      "route": "Basseterre & Coast",
+      "elevation": "Sea level to lower elevations, commonly nesting under eaves, overhangs, and metal structures.",
+      "tip": "Paper wasps are beneficial garden predators that control caterpillar populations, but their small umbrella-like nests under eaves should be approached with caution.",
+      "toxic": false,
+      "summary": "Paper wasps are social stinging insects recognized by their slender bodies, orange-yellow and black markings, and distinctive hanging paper-like comb nests. Found throughout St. Kitts and Nevis, they construct these nests using chewed wood fiber mixed with saliva.",
+      "notes": "In St. Kitts and Nevis, paper wasps are frequently encountered around human habitations, particularly under the eaves of roofs, corrugated metal awnings, and outdoor structures. While they play a useful role in controlling agricultural and garden pests, stings can be painful and trigger allergic reactions.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795613767641_1795613769296.jpg",
+      "tags": [
+        "insect",
+        "wasp",
+        "wildlife",
+        "stinger",
+        "pest control",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795613556165",
       "title": "Crustose Lichen",
