@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795613770457,
+  "contentVersion": 1795613908875,
   "entries": [
+    {
+      "id": "custom_1795613905646",
+      "title": "Serpent Fern",
+      "subtitle": "Phlebodium aureum (syn. Polypodium aureum)",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "Common in humid, shaded areas from lowlands to the slopes of Mount Liamuiga",
+      "tip": "Look for the golden-brown, fuzzy rhizomes that creep along tree trunks; they look like a snake's skin, hence the name.",
+      "toxic": false,
+      "summary": "The Serpent Fern is a common epiphytic fern found throughout the Caribbean, often growing on tree trunks or rocky outcrops. It is highly adaptable and thrives in the humid, shaded environments of the St. Kitts rainforest.",
+      "notes": "In St. Kitts and Nevis, this fern is frequently seen as an epiphyte on old trees or stone walls. While not a primary medicinal plant, it is a key component of the island's epiphytic ecosystem, providing habitat for small insects and tree frogs. It is often cultivated as an ornamental due to its striking foliage.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795613905646_1795613907724.jpg",
+      "tags": [
+        "Fern",
+        "Epiphyte",
+        "Rainforest",
+        "St. Kitts Flora",
+        "Native Plants",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795613767641",
       "title": "Paper Wasp",
