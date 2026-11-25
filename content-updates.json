@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795563204890,
+  "contentVersion": 1795613389620,
   "entries": [
+    {
+      "id": "custom_1795613387244",
+      "title": "Pleated Inkcap",
+      "subtitle": "Parasola plicatilis",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "Lowland trails to mid-elevation rainforest floor, 100–400m",
+      "tip": "These delicate, ephemeral mushrooms typically emerge overnight after heavy tropical rains and wither away completely by the afternoon sun.",
+      "toxic": true,
+      "summary": "A small, fragile saprotrophic mushroom characterized by its radially grooved, umbrella-like white or grayish cap with a distinct brownish-orange center. It plays an important ecological role in breaking down organic debris on the moist forest floor.",
+      "notes": "Found frequently in damp leaf litter and enriched soil throughout the forested valleys of St. Kitts. While not considered poisonous, it has no culinary value due to its extremely fleeting nature and lack of substantial flesh.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795613387244_1795613388627.jpg",
+      "tags": [
+        "mushroom",
+        "fungi",
+        "rainforest",
+        "biodiversity",
+        "St. Kitts",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795563202255",
       "title": "Green Anole",
