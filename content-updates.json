@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795613908875,
+  "contentVersion": 1795627325119,
   "entries": [
+    {
+      "id": "custom_1795627321671",
+      "title": "Lilac Tasselflower",
+      "subtitle": "Emilia sonchifolia",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Asteraceae family (38% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Emilia sonchifolia, also known as lilac tasselflower or cupid's shaving brush, is a tropical flowering species of tasselflower in the sunflower family. It is a branching, annual herb up to 40 cm tall. The leaves are lyrate-pinnatilobed, up to 10 cm (4 in) long, sometimes becoming purplish as they get old. One plant can produce several pink or purplish flo...",
+      "notes": "Identified via Pl@ntNet botanical vision (38% match).\n\nOther Pl@ntNet candidates: Florida Tasselflower (13%), Pale Tasselflower (13%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795627321671_1795627323320.jpg",
+      "tags": [
+        "plantnet",
+        "asteraceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795613905646",
       "title": "Serpent Fern",
