@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795627325119,
+  "contentVersion": 1795627850107,
   "entries": [
+    {
+      "id": "custom_1795627846357",
+      "title": "Chamber bitter",
+      "subtitle": "Phyllanthus urinaria",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Phyllanthaceae family (88% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Phyllanthus urinaria is a species of annual flowering plant in the family Phyllanthaceae. It is native to Asia and has an introduced presence in tropical and subtropical areas worldwide. It has common names such as chamber bitter, gripeweed, shatterstone, stonebreaker, and leafflower.",
+      "notes": "Identified via Pl@ntNet botanical vision (88% match).\n\nOther Pl@ntNet candidates: Carry me seed (6%), Gale of the wind (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795627846357_1795627848978.jpg",
+      "tags": [
+        "plantnet",
+        "phyllanthaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795627321671",
       "title": "Lilac Tasselflower",
