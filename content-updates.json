@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795627850107,
+  "contentVersion": 1795630481709,
   "entries": [
+    {
+      "id": "custom_1795630476501",
+      "title": "Stinkhorn Fungus",
+      "subtitle": "Clathrus crispus",
+      "category": "Wildlife",
+      "route": "Rainforest Interior",
+      "elevation": "Found in moist, shaded areas of the St. Kitts rainforest floor",
+      "tip": "Despite their bizarre, alien appearance and foul smell, these fungi are essential decomposers that help recycle nutrients back into the rich volcanic soil of our rainforests.",
+      "toxic": true,
+      "summary": "This is a species of stinkhorn fungus, characterized by its lattice-like, cage-like structure that emerges from the forest floor. It is a saprobic fungus that plays a vital role in breaking down organic matter in the humid environment of the island's interior.",
+      "notes": "In St. Kitts, these fungi are most commonly spotted after heavy rainfall in the shaded, humid understory of the central mountain range. They emit a pungent, carrion-like odor designed to attract flies, which then act as vectors to disperse the fungal spores. While not considered toxic, they are not edible and are best left undisturbed as part of the forest's natural cleanup crew.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795630476501_1795630478919.jpg",
+      "tags": [
+        "fungi",
+        "rainforest",
+        "decomposer",
+        "St. Kitts ecology",
+        "mycology",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795627846357",
       "title": "Chamber bitter",
