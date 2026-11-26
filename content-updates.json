@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795700359714,
+  "contentVersion": 1795700628498,
   "entries": [
+    {
+      "id": "custom_1795700626373",
+      "title": "Pullback",
+      "subtitle": "Pisonia aculeata",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Nyctaginaceae family (40% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Pullback (Pisonia aculeata) identified by Pl@ntNet with 40% botanical confidence. Botanical family: Nyctaginaceae. Also known as: Devil's Claws, Cockspur.",
+      "notes": "Identified via Pl@ntNet botanical vision (40% match).\n\nOther Pl@ntNet candidates: Benkara malabarica (3%), Barbados gooseberry (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795700626373_1795700627447.jpg",
+      "tags": [
+        "plantnet",
+        "nyctaginaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795700357487",
       "title": "Caesarweed",
