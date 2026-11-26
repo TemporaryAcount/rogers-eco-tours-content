@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795700628498,
+  "contentVersion": 1795701263183,
   "entries": [
+    {
+      "id": "custom_1795701260636",
+      "title": "Dioscorea chondrocarpa",
+      "subtitle": "Dioscorea chondrocarpa",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Dioscoreaceae family (57% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Dioscorea chondrocarpa (Dioscorea chondrocarpa) identified by Pl@ntNet with 57% botanical confidence. Botanical family: Dioscoreaceae.",
+      "notes": "Identified via Pl@ntNet botanical vision (57% match).\n\nOther Pl@ntNet candidates: Yautia madera (16%), Air yam (4%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795701260636_1795701262144.jpg",
+      "tags": [
+        "plantnet",
+        "dioscoreaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795700626373",
       "title": "Pullback",
