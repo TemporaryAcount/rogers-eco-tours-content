@@ -1,6 +1,27 @@
 {
-  "contentVersion": 1795701263183,
+  "contentVersion": 1795707514380,
   "entries": [
+    {
+      "id": "custom_1795707512168",
+      "title": "Forest Mushroom",
+      "subtitle": "Basidiomycota saprotrophic fungus",
+      "category": "Wildlife",
+      "route": "Rainforest Interior",
+      "elevation": "Found across damp forest floors, decaying logs, and shaded rainforest interiors up to Mount Liamuiga.",
+      "tip": "Crucial decomposers in the rainforest ecosystem, breaking down fallen timber to recycle vital nutrients back into the volcanic soil.",
+      "toxic": true,
+      "summary": "Small, delicate forest mushrooms thrive on decaying wood throughout the humid interior of St. Kitts and Nevis. They play an essential ecological role as primary decomposers in the island's lush rainforests.",
+      "notes": "Wild mushrooms in the Caribbean tropical forest should never be consumed as many species are highly toxic or unidentified. Their presence indicates high humidity, rich organic decay, and a healthy, functioning rainforest floor.",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795707512168_1795707513157.jpg",
+      "tags": [
+        "mushroom",
+        "fungus",
+        "rainforest",
+        "decomposer",
+        "St Kitts ecology",
+        "google-ai"
+      ]
+    },
     {
       "id": "custom_1795701260636",
       "title": "Dioscorea chondrocarpa",
