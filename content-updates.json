@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795724908801,
+  "contentVersion": 1795725000712,
   "entries": [
+    {
+      "id": "custom_1795724977982",
+      "title": "Scarlet Jungleflame",
+      "subtitle": "Ixora coccinea",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Rubiaceae family (65% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Ixora coccinea is a species of flowering plant in the family Rubiaceae. It is a common flowering shrub native to Southern India, Bangladesh, and Sri Lanka. It has become one of the most popular flowering shrubs in South Florida gardens and landscapes. It is the national flower of Suriname.",
+      "notes": "Identified via Pl@ntNet botanical vision (65% match).\n\nOther Pl@ntNet candidates: Chinese ixora (27%), Javanese ixora (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795724977982_1795724999698.jpg",
+      "tags": [
+        "plantnet",
+        "rubiaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795724894559",
       "title": "Crape jasmine",
