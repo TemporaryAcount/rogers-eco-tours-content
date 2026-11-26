@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795707514380,
+  "contentVersion": 1795724908801,
   "entries": [
+    {
+      "id": "custom_1795724894559",
+      "title": "Crape jasmine",
+      "subtitle": "Tabernaemontana divaricata",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Apocynaceae family (61% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, Ceylon jasmine, East India rosebay, and Nero's crown, is an evergreen shrub or small tree native to South Asia, Southeast Asia and China. In zones where it is not hardy it is grown as a house/glasshouse plant for its attractive flowers and foliage. The stem exudes a milky latex wh...",
+      "notes": "Identified via Pl@ntNet botanical vision (61% match).\n\nOther Pl@ntNet candidates: Tabernaemontana laeta (11%), Banana bush (5%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795724894559_1795724907612.jpg",
+      "tags": [
+        "plantnet",
+        "apocynaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795707512168",
       "title": "Forest Mushroom",
