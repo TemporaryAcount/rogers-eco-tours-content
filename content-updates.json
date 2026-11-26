@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795630481709,
+  "contentVersion": 1795700359714,
   "entries": [
+    {
+      "id": "custom_1795700357487",
+      "title": "Caesarweed",
+      "subtitle": "Urena lobata",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Malvaceae family (25% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Urena lobata, commonly known as Caesarweed or Congo jute, is a tender perennial, variable, erect, ascendant shrub or subshrub measuring up to 0.5 meters (1.6 ft) to 2.5 meters (8.2 ft) tall. The stems are covered with minute, star-like hairs and often tinged purple. Considered a weed, it is considered to be native throughout much of the tropical and subtr...",
+      "notes": "Identified via Pl@ntNet botanical vision (25% match).\n\nOther Pl@ntNet candidates: Confederate rose (11%), Annual mallow (3%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795700357487_1795700358603.jpg",
+      "tags": [
+        "plantnet",
+        "malvaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795630476501",
       "title": "Stinkhorn Fungus",
