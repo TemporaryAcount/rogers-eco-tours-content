@@ -1,6 +1,24 @@
 {
-  "contentVersion": 1795725000712,
+  "contentVersion": 1795805207752,
   "entries": [
+    {
+      "id": "custom_1795805204993",
+      "title": "Cape Francais Stalkgrass",
+      "subtitle": "Pharus lappulaceus",
+      "category": "Plants",
+      "route": "Rainforest Interior",
+      "elevation": "St. Kitts & Nevis Flora",
+      "tip": "Member of the Poaceae family (34% Pl@ntNet match).",
+      "toxic": false,
+      "summary": "Cape Francais Stalkgrass (Pharus lappulaceus) is a shade-loving perennial grass native to tropical and subtropical regions of the Americas, including the Caribbean, Central America, South America, and parts of Florida. It is also commonly known as creeping leafstalk grass\n\n• Growth habit: A low-growing perennial grass that spreads via rhizomes to form loose clumps or groundcover, typically reaching up to about 2–3 feet tall.\n\n• Foliage: Broad, lance-shaped leaves with a distinct stalk-like base (petiole) that can give it a look similar to a small ginger plant.\n\n• Flowers & seeds: Produces airy branching flower clusters (panicles) with small green, purple, or brown blooms, followed by dry caryopsis grass fruits",
+      "notes": "Identified via Pl@ntNet botanical vision (34% match).\n\nOther Pl@ntNet candidates: Meadow fescue (3%), Thurston grass (2%).",
+      "image": "https://rogersecosai.rashidirogers.workers.dev/photos/custom_1795805204993_1795805206586.jpg",
+      "tags": [
+        "plantnet",
+        "poaceae",
+        "flora"
+      ]
+    },
     {
       "id": "custom_1795724977982",
       "title": "Scarlet Jungleflame",
